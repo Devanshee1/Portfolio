@@ -1,5 +1,5 @@
 # My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.Take at look:
+Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.Take a look:
 https://devansheesharma-portfolio.vercel.app/
 ## Table of Contents
 - [Introduction](#introduction)
